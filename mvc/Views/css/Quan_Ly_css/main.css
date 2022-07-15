@@ -1,0 +1,14 @@
+.add-wrapper{
+    border: 1px solid #D7D7D7;
+    padding: 0.5rem;
+}
+
+.helvetica-font{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    padding: 1rem 1rem 1rem 0;
+}
+
+.product-image{
+    height: 10rem;
+}

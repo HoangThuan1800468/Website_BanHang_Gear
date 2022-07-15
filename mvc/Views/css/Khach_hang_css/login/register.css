@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+.bg-image {
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: url(../../../media/image/background/bg-image6.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.brand-logo{
+  font-family: 'Pacifico', cursive;
+  display: inline;
+  color: #ff99b9;
+}
+
+.back-home{
+  font-size: 1.5rem;
+  color: white;
+  padding: 2rem;
+}
+.back-home:hover{
+  color: #D7D7D7;
+}

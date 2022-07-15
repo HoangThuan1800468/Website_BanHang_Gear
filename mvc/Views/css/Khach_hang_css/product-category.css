@@ -1,0 +1,17 @@
+.product-category{
+    min-height: 33vh;
+}
+
+
+.product-category-text h1{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  padding: 1vh 0 0 0;
+}
+
+.product-category-text p{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  font-size: larger;
+  padding: 1vh 0 0 1vh;
+}

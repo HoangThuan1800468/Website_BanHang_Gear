@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap');
+
+.about-us{
+    min-height: 67vh;
+    background-image: url(../../media/image/background/bg-image2-darken.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+.about-us h1 {
+    font-size: 4rem;
+}
+
+.about-us span{
+    font-family: 'Pacifico', cursive;
+    color: pink;
+}
+
+.about-us p {
+    font-size: 1.2rem;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.player-quote{
+    min-height: 100vh;
+    background-image: url(../../media/image/background/bg-image3.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+.player-quote h1 {
+    font-size: 4rem;
+}
+
+.player-quote span{
+    font-family: 'Pacifico', cursive;
+    color: pink;
+}
+
+.player-quote p {
+    font-size: 1.7rem;
+    font-family: 'Noto Sans', sans-serif;
+    color: #D3D3D3;
+}
+
+.highlight-quote{
+    background-color: rgba(73, 73, 73, 0.6);
+    padding: 2rem;
+    border-radius: 20px;
+}

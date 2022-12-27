@@ -1,6 +1,4 @@
 # Website_BanHang_Gear
-Địa chỉ trang web đang hoạt động:
-# http://hoangthuan.cf/
 - Sử dụng mô hình MVC và xử lý URL
 - Ngôn ngữ: PHP
 - Database: MySql

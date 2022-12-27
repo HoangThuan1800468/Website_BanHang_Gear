@@ -1,11 +1,17 @@
 # Website_BanHang_Gear
-- Sử dụng mô hình MVC xử lý đường dẫn
-- Chủ yếu sử dụng PHP làm ngôn ngữ backend
-- Database MySql
-- Sử dụng Bootrap 
-* Chức năng cơ bản:
- + Trưng bày sản phẩm
- + Giỏ hàng
- + Đặt hàng
- + Quản lý sản phẩm, đơn hàng, nhân viên, tài khoản
-=> Sản phẩm là bài tập lớn có sự hỗ trợ giao diện.
+- Sử dụng mô hình MVC và xử lý URL
+- Ngôn ngữ: PHP
+- Database: MySql
+- UI: Bootrap, Css 
+ * Chức năng:
+  + Giao diện người dùng:
+   - Trang chính
+   - Trang danh sách sản phầm
+   - Trang thông tin sản phẩm
+   - Giỏ hàng
+   - Đặt hàng
+   - Tài khoản khách hàng
+  + Giao diện quản lý:
+   - Quản lý tài khoản
+   - Quản lý sản phẩm
+   - Quản lý đơn hàng
